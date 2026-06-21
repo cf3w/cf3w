@@ -93,6 +93,59 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf3w&layout=
 </div>
 
 ---
+# 📈 Estatísticas de Tráfego
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 👀 Views
+
+<!--TRAFFIC_VIEWS-->
+0
+<!--END_TRAFFIC_VIEWS-->
+
+</td>
+
+<td align="center">
+
+### 👤 Visitantes Únicos
+
+<!--TRAFFIC_UNIQUES-->
+0
+<!--END_TRAFFIC_UNIQUES-->
+
+</td>
+
+<td align="center">
+
+### 📥 Clones
+
+<!--TRAFFIC_CLONES-->
+0
+<!--END_TRAFFIC_CLONES-->
+
+</td>
+
+<td align="center">
+
+### 👥 Clonadores Únicos
+
+<!--TRAFFIC_CLONERS-->
+0
+<!--END_TRAFFIC_CLONERS-->
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 # 🏆 Conquistas
 
@@ -144,95 +197,6 @@ Ser referência em serviços de tecnologia e infraestrutura digital.
 
 ✔ Compromisso com resultados
 
----
-
-# 👥 Equipe e Colaboradores
-
-<div align="center">
-
-<!-- <table>
-<tr>
-<th>Colaborador</th>
-<th>Função</th>
-<th>Commits Públicos</th>
-<th>Commits Privados</th>
-<th>Total</th>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/cleomarlisboa.png" width="80px"/><br>
-<b>Cleomar Lisboa</b><br>
-<sub>@cleomarsrv</sub>
-</td>
-<td>CEO (Chief Executive Officer) - Diretor Executivo / Presidente Executivo - Managing Partner - Sócio Administrador</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/fabriciogmatos.png" width="80px"/><br>
-<b>Fabrício G. Matos</b><br>
-<sub>@fabriciogmatos</sub>
-</td>
-<td>CTO (Chief Technology Officer) - Diretor de Tecnologia - Co-Founder - Cofundador</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/fernadomacedo.png" width="80px"/><br>
-<b>Fernando Macedo</b><br>
-<sub>@pigaoif</sub>
-</td>
-<td>CFO (Chief Financial Officer) - Diretor Financeiro | CCO (Chief Commercial Officer) - Diretor Comercial | Founder - Fundador</td>
-
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/fredibs.png" width="80px"/><br>
-<b>Frederico G. C. Matos</b><br>
-<sub>@fredibs</sub>
-</td>
-<td>Developer freelancer (Desenvolvedor)</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/fbnmtz.png" width="80px"/><br>
-<b>F. B. N. Matos</b><br>
-<sub>@fbnmtz</sub>
-</td>
-<td>Developer freelancer (Desenvolvedor)</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/mvgmatos.png" width="80px"/><br>
-<b>Marcus Vinícius G. Matos</b><br>
-<sub>@mvgmatos</sub>
-</td>
-<td>Developer freelancer (Desenvolvedor)</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-</tr>
-
-</table> -->
 ---
 
 # 👥 Equipe e Colaboradores
@@ -431,8 +395,6 @@ src="https://github-readme-stats.vercel.app/api?username=mvgmatos&show_icons=tru
 
 ---
 </div>
-
----
 
 ---
 

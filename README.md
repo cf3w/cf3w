@@ -298,34 +298,9 @@ src="https://github-readme-stats.vercel.app/api?username=pigaoif&show_icons=true
 <tr>
 <td align="center">
 
-<img src="https://github.com/fredibs.png" width="90px"/><br>
-
-### Frederico G. C. Matos
-
-<sub>@fredibs</sub>
-
-</td>
-
-<td>
-
-Developer Freelancer
-
-</td>
-
-<td>
-
-<img height="140em"
-src="https://github-readme-stats.vercel.app/api?username=fredibs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 <img src="https://github.com/fbnmtz.png" width="90px"/><br>
 
-### F. B. N. Matos
+### Fabiano G. Matos
 
 <sub>@fbnmtz</sub>
 
@@ -344,7 +319,6 @@ src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
@@ -366,6 +340,32 @@ Developer Freelancer
 
 <img height="140em"
 src="https://github-readme-stats.vercel.app/api?username=mvgmatos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/fredibs.png" width="90px"/><br>
+
+### Frederico G. C. Matos
+
+<sub>@fredibs</sub>
+
+</td>
+
+<td>
+
+Developer Freelancer
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=fredibs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>

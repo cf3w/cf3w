@@ -105,7 +105,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf3w&layout=
 ### 👀 Views
 
 <!--TRAFFIC_VIEWS-->
-0
+null
 <!--END_TRAFFIC_VIEWS-->
 
 </td>
@@ -115,7 +115,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf3w&layout=
 ### 👤 Visitantes Únicos
 
 <!--TRAFFIC_UNIQUES-->
-0
+null
 <!--END_TRAFFIC_UNIQUES-->
 
 </td>
@@ -125,7 +125,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf3w&layout=
 ### 📥 Clones
 
 <!--TRAFFIC_CLONES-->
-0
+null
 <!--END_TRAFFIC_CLONES-->
 
 </td>
@@ -135,7 +135,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf3w&layout=
 ### 👥 Clonadores Únicos
 
 <!--TRAFFIC_CLONERS-->
-0
+null
 <!--END_TRAFFIC_CLONERS-->
 
 </td>

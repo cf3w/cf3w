@@ -150,7 +150,7 @@ Ser referência em serviços de tecnologia e infraestrutura digital.
 
 <div align="center">
 
-<table>
+<!-- <table>
 <tr>
 <th>Colaborador</th>
 <th>Função</th>
@@ -232,8 +232,204 @@ Ser referência em serviços de tecnologia e infraestrutura digital.
 <td>--</td>
 </tr>
 
+</table> -->
+---
+
+# 👥 Equipe e Colaboradores
+
+<div align="center">
+
+<table>
+<tr>
+<th>Colaborador</th>
+<th>Cargo</th>
+<th>Estatísticas</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/cleomarsrv.png" width="90px"/><br>
+
+### Cleomar Lisboa
+
+<sub>@cleomarsrv</sub>
+
+</td>
+
+<td>
+
+CEO (Chief Executive Officer)<br>
+Diretor Executivo / Presidente Executivo<br>
+Managing Partner - Sócio Administrador
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=cleomarsrv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/fabriciogmatos.png" width="90px"/><br>
+
+### Fabrício G. Matos
+
+<sub>@fabriciogmatos</sub>
+
+</td>
+
+<td>
+
+CTO (Chief Technology Officer) - Diretor de Tecnologia<br>
+CIO (Chief Information Officer) - Diretor de Informação / TI<br>
+Co-Founder<br>
+limited partner
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=fabriciogmatos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/pigaoif.png" width="90px"/><br>
+
+### Fernando Macedo
+
+<sub>@pigaoif</sub>
+
+</td>
+
+<td>
+
+
+
+CFO (Chief Financial Officer) - Diretor Financeiro (CFO)<br>
+CCO (Chief Commercial Officer) - Diretor Comercial (CCO)<br>
+Founder<br>
+limited partner
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=pigaoif&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/fredibs.png" width="90px"/><br>
+
+### Frederico G. C. Matos
+
+<sub>@fredibs</sub>
+
+</td>
+
+<td>
+
+Developer Freelancer
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=fredibs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/fbnmtz.png" width="90px"/><br>
+
+### F. B. N. Matos
+
+<sub>@fbnmtz</sub>
+
+</td>
+
+<td>
+
+Developer Freelancer
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github.com/mvgmatos.png" width="90px"/><br>
+
+### Marcus Vinícius G. Matos
+
+<sub>@mvgmatos</sub>
+
+</td>
+
+<td>
+
+Developer Freelancer
+
+</td>
+
+<td>
+
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api?username=mvgmatos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
 </table>
 
+</div>
+
+---
+
+# 📈 Métricas da Equipe
+
+<div align="center">
+
+| Colaborador | Público | Privado* | PRs | Issues |
+|--------------|---------:|----------:|----:|--------:|
+| @cleomarsrv | Auto | Manual | Auto | Auto |
+| @fabriciogmatos | Auto | Manual | Auto | Auto |
+| @pigaoif | Auto | Manual | Auto | Auto |
+| @fredibs | Auto | Manual | Auto | Auto |
+| @fbnmtz | Auto | Manual | Auto | Auto |
+| @mvgmatos | Auto | Manual | Auto | Auto |
+
+</div>
+
+<sub>* Commits privados precisam ser informados pelo próprio colaborador ou coletados por uma GitHub Action usando token pessoal.</sub>
+
+---
 </div>
 
 ---

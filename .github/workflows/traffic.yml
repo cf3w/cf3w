@@ -1,0 +1,57 @@
+name: Update Traffic
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  traffic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get Views
+        run: |
+          curl \
+          -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          https://api.github.com/repos/cf3w/cf3w/traffic/views \
+          > views.json
+
+      - name: Get Clones
+        run: |
+          curl \
+          -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          https://api.github.com/repos/cf3w/cf3w/traffic/clones \
+          > clones.json
+
+      - name: Parse values
+        run: |
+          VIEWS=$(jq .count views.json)
+          UNIQUES=$(jq .uniques views.json)
+
+          CLONES=$(jq .count clones.json)
+          CLONERS=$(jq .uniques clones.json)
+
+          sed -i "/<!--TRAFFIC_VIEWS-->/,/<!--END_TRAFFIC_VIEWS-->/c\<!--TRAFFIC_VIEWS-->\n$VIEWS\n<!--END_TRAFFIC_VIEWS-->" README.md
+
+          sed -i "/<!--TRAFFIC_UNIQUES-->/,/<!--END_TRAFFIC_UNIQUES-->/c\<!--TRAFFIC_UNIQUES-->\n$UNIQUES\n<!--END_TRAFFIC_UNIQUES-->" README.md
+
+          sed -i "/<!--TRAFFIC_CLONES-->/,/<!--END_TRAFFIC_CLONES-->/c\<!--TRAFFIC_CLONES-->\n$CLONES\n<!--END_TRAFFIC_CLONES-->" README.md
+
+          sed -i "/<!--TRAFFIC_CLONERS-->/,/<!--END_TRAFFIC_CLONERS-->/c\<!--TRAFFIC_CLONERS-->\n$CLONERS\n<!--END_TRAFFIC_CLONERS-->" README.md
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add README.md
+          git commit -m "Update traffic" || exit 0
+          git push

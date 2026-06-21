@@ -217,7 +217,7 @@ Ser referência em serviços de tecnologia e infraestrutura digital.
 
 ### Cleomar Lisboa
 
-<sub>@cleomarsrv</sub>
+<sub><a href="https://github.com/cleomarsrv" target="_blank" rel="noopener noreferrer">@cleomarsrv</a></sub>
 
 </td>
 
@@ -244,7 +244,7 @@ src="https://github-readme-stats.vercel.app/api?username=cleomarsrv&show_icons=t
 
 ### Fabrício G. Matos
 
-<sub>@fabriciogmatos</sub>
+<sub><a href="https://github.com/fabriciogmatos" target="_blank" rel="noopener noreferrer">@fabriciogmatos</a></sub>
 
 </td>
 
@@ -253,7 +253,7 @@ src="https://github-readme-stats.vercel.app/api?username=cleomarsrv&show_icons=t
 CTO (Chief Technology Officer) - Diretor de Tecnologia<br>
 CIO (Chief Information Officer) - Diretor de Informação / TI<br>
 Co-Founder<br>
-limited partner
+Limited Partner
 
 </td>
 
@@ -272,18 +272,16 @@ src="https://github-readme-stats.vercel.app/api?username=fabriciogmatos&show_ico
 
 ### Fernando Macedo
 
-<sub>@pigaoif</sub>
+<sub><a href="https://github.com/pigaoif" target="_blank" rel="noopener noreferrer">@pigaoif</a></sub>
 
 </td>
 
 <td>
 
-
-
-CFO (Chief Financial Officer) - Diretor Financeiro (CFO)<br>
-CCO (Chief Commercial Officer) - Diretor Comercial (CCO)<br>
+CFO (Chief Financial Officer) - Diretor Financeiro<br>
+CCO (Chief Commercial Officer) - Diretor Comercial<br>
 Founder<br>
-limited partner
+Limited Partner
 
 </td>
 
@@ -302,7 +300,7 @@ src="https://github-readme-stats.vercel.app/api?username=pigaoif&show_icons=true
 
 ### Fabiano G. Matos
 
-<sub>@fbnmtz</sub>
+<sub><a href="https://github.com/fbnmtz" target="_blank" rel="noopener noreferrer">@fbnmtz</a></sub>
 
 </td>
 
@@ -319,6 +317,7 @@ src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&
 
 </td>
 </tr>
+
 <tr>
 <td align="center">
 
@@ -326,7 +325,7 @@ src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&
 
 ### Marcus Vinícius G. Matos
 
-<sub>@mvgmatos</sub>
+<sub><a href="https://github.com/mvgmatos" target="_blank" rel="noopener noreferrer">@mvgmatos</a></sub>
 
 </td>
 
@@ -344,7 +343,6 @@ src="https://github-readme-stats.vercel.app/api?username=mvgmatos&show_icons=tru
 </td>
 </tr>
 
-
 <tr>
 <td align="center">
 
@@ -352,7 +350,7 @@ src="https://github-readme-stats.vercel.app/api?username=mvgmatos&show_icons=tru
 
 ### Frederico G. C. Matos
 
-<sub>@fredibs</sub>
+<sub><a href="https://github.com/fredibs" target="_blank" rel="noopener noreferrer">@fredibs</a></sub>
 
 </td>
 
@@ -372,9 +370,7 @@ src="https://github-readme-stats.vercel.app/api?username=fredibs&show_icons=true
 
 </table>
 
-</div>
-
----
+</div>---
 
 # 📈 Métricas da Equipe
 
